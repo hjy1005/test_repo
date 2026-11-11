@@ -3,3 +3,4 @@ This is dev branch.
 Remote update from Github.
 Patch applied.
 Local conflict line.
+Remote conflict line.
