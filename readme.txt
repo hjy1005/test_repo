@@ -1,2 +1,4 @@
 Hello,this is my first commit.
-Remote update from GitHub
+This is dev branch.
+Remote update from Github.
+Patch applied.
